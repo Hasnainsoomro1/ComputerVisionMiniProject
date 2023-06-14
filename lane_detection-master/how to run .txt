@@ -1,0 +1,6 @@
+install
+
+install python:   pip install python
+Install opencv:   pip install opencv2
+install numpy:    pip install numpy
+install flask:    pip install flask
